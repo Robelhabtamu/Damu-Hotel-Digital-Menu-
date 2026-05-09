@@ -5,7 +5,8 @@ const languageButtons = document.querySelectorAll("[data-language]");
 
 const translations = {
   en: {
-    brandName: "Damu Hotel",
+    
+    brandName: "Damu Hotel Dilla",
     logoFallback: "DH",
     navMenu: "Menu",
     navAbout: "About",
@@ -34,13 +35,13 @@ const translations = {
     socialTikTok: "TikTok",
   },
   am: {
-    brandName: "ዳሙ ሆቴል",
+    brandName: "ዳሙ ሆቴል ዲላ",
     logoFallback: "ዳሙ",
     navMenu: "የምግብ ዝርዝር",
     navAbout: "ስለ እኛ",
     navContact: "አድራሻ",
     heroEyebrow: "ሆቴል እና ሬስቶራንት",
-    heroTagline: "ትኩስ ምግቦች፣ ሞቅ ያለ እንግዳ አቀባበል።",
+    heroTagline: "ትኩስ ምግቦች፣ ከ መልካም መስተንግዶ ጋር።",
     heroCta: " የምግብ ዝርዝር ይመልከቱ",
     menuEyebrow: "የእኛ የምግብ ዝርዝር",
     menuTitle: "የ ምግብ ዝርዝር",
@@ -50,17 +51,15 @@ const translations = {
     popular: "ተወዳጅ",
     noResults: "የ ምግብ ዝርዝር ውስጥ የለም ሌላ ይሞክሩ።",
     aboutEyebrow: "ስለ ዳሙ ሆቴል",
-    aboutTitle: "ቀላል፣ ምቹ እና በፍቅር የተዘጋጀ ምግብ።።",
-    aboutCopy: "ዳሙ ሆቴል ለእንግዶች እና ለአካባቢ ደንበኞች ጣፋጭ ምግቦች፣ አዳዲስ መጠጦች እና ሞቅ ያለ እንግዳ አቀባበል ያቀርባል።",
+    aboutTitle: "ጣፋጭ እና ተወዳጅ ምግቦች።",
+    aboutCopy: "ዳሙ ሆቴል ለእንግዶች እና ለአካባቢ ደንበኞች ጣፋጭ ምግቦች፣መጠጦች እና ሞቅ ያለ እንግዳ አቀባበል ያቀርባል።",
     footerLocation: "አድራሻ",
-    footerLocationValue: "ዳሙ ሆቴል፣ ከተማዎ፣ ኢትዮጵያ",
+    footerLocationValue: "ደቡብ እትዮጵያ ክልል ጌዴኦ ዞን ዲላ ከተማ",
     footerPhone: "ስልክ",
     footerHours: "የስራ ሰዓት",
-    footerHoursValue: "ሰኞ-እሁድ፦ 7:00 ጠዋት - 10:00 ማታ",
-    footerSocial: "ማህበራዊ ገጾች",
-    socialFacebook: "ፌስቡክ",
-    socialInstagram: "ኢንስታግራም",
-    socialTikTok: "ቲክቶክ",
+    footerHoursValue: "ሰኞ-እሁድ፦ 1:00 ጠዋት - 4:00 ማታ",
+    footerSocial: "ማህበራዊ ገጾች damuhotel@gmail.com",
+
   },
 };
 
